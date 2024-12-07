@@ -3,7 +3,7 @@ import Html from "./components/Html";
 function App() {
   return (
     <>
-      <Html />
+      <Html/>
     </>
   );
 }

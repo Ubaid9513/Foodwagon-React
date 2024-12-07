@@ -1,5 +1,11 @@
 import React from "react";
-
+import "../assets/css/theme-rtl.css.map";
+import "../assets/css/theme-rtl.min.css";
+import "../assets/css/theme-rtl.min.css.map";
+import "../assets/css/theme.css";
+import "../assets/css/theme.css.map";
+import "../assets/css/theme.min.css";
+import "../assets/css/theme.min.css.map";
 const Html = () => {
   return (
     <main className="main" id="top">
